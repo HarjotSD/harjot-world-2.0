@@ -4,4 +4,6 @@ this is a remake of the hit iphone game "flappy bird". I've renamed it to harjot
 
 This was created using mainly javascript (vanilla), css and html.
 
-Version 2.0 allows the user to move using the Up/down arrow keys on keyboard. 
+Version 2.0:
+- move using the Up/Down arrow keys on keyboard
+- press "P" to pause the game
